@@ -1,16 +1,12 @@
-# videoStreaming
-Video Streaming Service Coding Challenge for Glue Reply
+# Video Streaming Service Coding Challenge for Glue Reply
 
-
-
-#Glue Reply Coding Challenge
 • The Application has been developed in Java 11 and Spring Boot. 
 
 -Before running the application, head to application.properties and change the username/password according to the mysql credentials setted on local machine. 
 Please also check that the table name do not interact with any database schema already present, as upon creation any table with the same name will be dropped and 
 recreated.
 
-![image](https://i.imgur.com/7Zrp0mt.png)
+<img width="1178" alt="Screenshot 2022-07-17 at 23 28 22" src="https://user-images.githubusercontent.com/43646408/179427837-cfd02710-ff2f-4366-b261-24332d2535af.png">
 
 
 -The application takes as input JSON payloads (you might need to specify depending the client you're using for testing) on the following endpoints:
